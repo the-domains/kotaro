@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[kotaro]]></title>
         <description><![CDATA[kotaro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kotaro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 00:08:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 00:26:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kotaro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined52520003-e058-440c-92d2-d50c0734d77b/index.html</link>
+            <description><![CDATA[<p>エディトーリアルデザインとWebデザイン</p>]]></description>
+            <link>https://thegrid.ai/kotaro/4e04c181-f921-4a37-9ad4-e45a1c341c3c/index.html</link>
+            <guid isPermaLink="false">4e04c181-f921-4a37-9ad4-e45a1c341c3c</guid>
+            <pubDate>Fri, 04 Mar 2016 00:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>日本語を入れたらいったいどうなるのかなと思ったので、まずは日本語の記事を書いてみる。最初に記事を書くのが大晦日という、なかなか珍しいことだと思うので、一つ目の記事がいきなり2015年のまとめということで。</p>]]></description>
+            <link>https://thegrid.ai/kotaro/52520003-e058-440c-92d2-d50c0734d77b/index.html</link>
             <guid isPermaLink="false">52520003-e058-440c-92d2-d50c0734d77b</guid>
             <pubDate>Thu, 31 Dec 2015 00:08:44 GMT</pubDate>
         </item>
